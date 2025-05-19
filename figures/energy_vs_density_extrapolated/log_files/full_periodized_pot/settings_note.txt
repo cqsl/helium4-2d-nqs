@@ -1,0 +1,8 @@
+
+
+Data for N=30 obtained with the following sampling settings:
+n_sweeps = 32
+n_chains_per_rank = 4096
+n_samples_per_rank = 4096 
+n_discard_per_chain = 32
+using the optimized variational parameters obtained with the shifted and truncated potential
